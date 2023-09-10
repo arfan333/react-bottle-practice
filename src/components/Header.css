@@ -1,0 +1,16 @@
+.style_for_header{
+    border: 3px solid rebeccapurple;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 2rem;
+}
+.spanstyle{
+    color: cadetblue;
+    font-size: 3rem;
+}
+.bottle_container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}

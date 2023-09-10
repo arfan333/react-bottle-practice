@@ -1,0 +1,12 @@
+.bottle{
+    border: 3px solid royalblue;
+    padding: 10px;
+    border-radius: 20px;
+}
+.bottle img{
+    width: 200px;
+}
+.buttonStyle{
+    color: cadetblue;
+    font-size: 1rem;
+}
